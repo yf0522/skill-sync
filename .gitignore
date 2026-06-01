@@ -1,0 +1,4 @@
+# Local config (contains your repo URL) and runtime log — never commit these.
+config.sh
+sync-skills.log
+.DS_Store
